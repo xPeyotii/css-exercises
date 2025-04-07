@@ -1,0 +1,14 @@
+.button1-text-class,
+.button2-text-class {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.button1-text-class {
+    background-color: #333333;
+    color: white;
+}
+
+.button2-text-class {
+    background-color: rgb(255, 255, 0);
+}
